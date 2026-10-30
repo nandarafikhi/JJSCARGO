@@ -20,7 +20,7 @@ jobs:
           username: deployjjs@jjskargo.co.id
           password: XaZ1EYkrpz&1l.J3
           # Direktori tujuan di Hostinger (biasanya public_html atau public_html/namadomainanda)
-          server-dir: /public_html/ 
+          server-dir: /public_html/jjskargo.co.id/
           # Jika website Anda perlu di-build dulu (seperti React/Vite/Vue), tentukan folder hasilnya di sini. 
           # Jika berupa HTML murni, biarkan kosong atau hapus baris local-dir.
           # local-dir: ./
