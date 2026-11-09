@@ -8,13 +8,6 @@ Isi folder:
 - style.css: Desain bersama untuk semua halaman
 - script.js: Menu mobile, menu aktif, tahun footer
 
-CARA MENJALANKAN
-1. Ekstrak ZIP ke folder pilihan Anda.
-2. Buka VS Code. Pilih File > Open Folder, lalu pilih folder jjs-cargo-website-multipage.
-3. Buka index.html.
-4. Cara termudah: pasang ekstensi Live Server di VS Code, klik kanan index.html, lalu pilih Open with Live Server.
-   Alternatif: klik dua kali index.html untuk membuka langsung di browser.
-5. Gunakan menu navigasi untuk berpindah antarhalaman.
 
 CATATAN PENTING
 - Desain menggunakan Google Fonts, Font Awesome, dan foto Unsplash melalui internet.
